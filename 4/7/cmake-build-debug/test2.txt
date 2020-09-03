@@ -1,0 +1,7 @@
+a1->()in;
+a2->()in;
+[xaxxax]
+(a1)print;
+(a2)print;
+var -> (a1,a2)+;
+(var)print;

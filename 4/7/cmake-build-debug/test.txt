@@ -1,0 +1,7 @@
+in()->a1;
+in()->a2;
+[xaxxax ����������� �����������)0]
+print(a1);
+#print(a2);
+^(a1,a2) -> var;
+print(var);

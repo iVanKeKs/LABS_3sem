@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/5/TextParser.c
+TextParser.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/5/TextParser.h
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/5/TextParser.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/5/main.c
+TextParser.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/5/TextParser.h
+

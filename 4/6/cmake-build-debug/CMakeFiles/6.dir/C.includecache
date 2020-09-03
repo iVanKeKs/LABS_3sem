@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/6/InstructionQueue.c
+InstructionQueue.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/6/InstructionQueue.h
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/6/InstructionQueue.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/6/main.c
+InstructionQueue.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/6/InstructionQueue.h
+

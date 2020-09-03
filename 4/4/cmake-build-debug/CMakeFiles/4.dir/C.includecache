@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/4/SomeTown.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/4/main.c
+SomeTown.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/4/SomeTown.h
+

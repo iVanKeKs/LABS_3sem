@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/1/ArrayInterpreter.c
+ArrayInterpreter.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/1/ArrayInterpreter.h
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/1/ArrayInterpreter.h
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+time.h
+-
+stdlib.h
+-
+math.h
+-
+TechnicalMetods.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/1/TechnicalMetods.h
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/1/TechnicalMetods.h
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+

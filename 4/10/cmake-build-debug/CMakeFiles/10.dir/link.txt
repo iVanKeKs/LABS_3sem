@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/10.dir/main.c.o CMakeFiles/10.dir/ArithmeticBinaryTree.c.o  -o 10.exe -Wl,--out-implib,lib10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

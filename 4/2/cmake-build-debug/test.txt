@@ -1,0 +1,5 @@
+myvar=9;
+print myvar;
+bg=25;
+bg=bg%myvar;
+print bg;

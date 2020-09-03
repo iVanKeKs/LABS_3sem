@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/12.dir/main.c.o CMakeFiles/12.dir/ReversePolishNatatio.c.o CMakeFiles/12.dir/LIFOchar.c.o CMakeFiles/12.dir/LIFOint.c.o  -o 12.exe -Wl,--out-implib,lib12.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/10/ArithmeticBinaryTree.c
+ArithmeticBinaryTree.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/10/ArithmeticBinaryTree.h
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/4/10/ArithmeticBinaryTree.h
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+math.h
+-
+string.h
+-
+unistd.h
+-
+

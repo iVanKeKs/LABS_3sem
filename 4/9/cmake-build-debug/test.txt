@@ -1,0 +1,3 @@
+A (B (E (G, T, R (W, Z)), F (L, M)), C, S, U, L, G)
+A (B (E (G, T, R), F (L, M)), C)
+A (a (A (A, c, r, v)))

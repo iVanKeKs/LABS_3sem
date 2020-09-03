@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/9.dir/main.c.o CMakeFiles/9.dir/BracketTree.c.o  -o 9.exe -Wl,--out-implib,lib9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
