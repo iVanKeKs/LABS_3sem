@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/4.dir/main.cpp.o CMakeFiles/4.dir/LargeInteger.cpp.o  -o 4.exe -Wl,--out-implib,lib4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

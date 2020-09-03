@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/3.dir/main.cpp.o CMakeFiles/3.dir/Monomial.cpp.o CMakeFiles/3.dir/Polynomial.cpp.o CMakeFiles/3.dir/ListForMonomial.cpp.o CMakeFiles/3.dir/ListForPolynomial.cpp.o CMakeFiles/3.dir/TechnicalMethods.cpp.o  -o 3.exe -Wl,--out-implib,lib3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

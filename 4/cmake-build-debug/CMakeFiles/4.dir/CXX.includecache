@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/4/LargeInteger.cpp
+iostream
+-
+cstring
+-
+algorithm
+-
+LargeInteger.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/4/LargeInteger.h
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/4/LargeInteger.h
+iostream
+-
+cctype
+-
+cmath
+-
+cstring
+-
+algorithm
+-
+climits
+-
+

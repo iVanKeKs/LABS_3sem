@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/2/List.h
+iostream
+-
+cstring
+-
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/2/Polynomial.cpp
+Polynomial.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/2/Polynomial.h
+
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/2/Polynomial.h
+iostream
+-
+climits
+-
+cstdarg
+-
+cstring
+-
+algorithm
+-
+List.h
+/cygdrive/c/Users/iVan/Documents/GitHub/F_AlG/FUND-ALG/5/2/List.h
+
